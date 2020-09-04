@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Bog</string>
+
+    //strings para el login
+    <string name="BotonRegister">Registrar</string>
+    <string name="tv1">Login</string>
+
+    //strings para el regitro
+    <string name="BotonRegister2">Registrar</string>
+    <string name="tv2">Registro</string>
+
+    //strings para el perfil
+    <string name="BotonServicios">Servicios</string>
+    <string name="BotonRecompensa">Recompensa</string>
+    <string name="BotonCerrarsesion">Cerrar Sesion</string>
+    <string name="tv3">Perfil</string>
+
+    //strings para el apartado de acciones
+    <string name="BotonCitas">Citas</string>
+    <string name="BotonProductos">Productos</string>
+    <string name="tv4">Servicios</string>
+
+    //strings para el apartado de citas
+    <string name="BotonValidarCita">Validar</string>
+    <string name="BotonDevolver">Cancelar</string>
+    <string name="tv5">Apartado de citas</string>
+
+    //strings para Productos
+    <string name="tv6">Productos</string>
+
+    //string para Premios
+    <string name="tv7">Premios</string>
+
+    //string para barba
+    <string name="BotonBarba">avanzar</string>
+    <string name="BotonBarbaB">Batras</string>
+
+
+
+    //string img
+    <string name="desc"></string>
+
+</resources>
